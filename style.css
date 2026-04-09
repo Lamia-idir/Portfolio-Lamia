@@ -99,3 +99,22 @@
 }
 
 /* footer */
+
+
+
+.portfolioContent {
+    height: 100%;
+}
+
+.portfolioContent img {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+}
+
+.portfolioContent .card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 250px;
+}
