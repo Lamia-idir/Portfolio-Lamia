@@ -32,7 +32,7 @@
 }
 /* text css above hero image*/
 .hero_title {
-    font-size: 4.5rem;
+    font-size: 4 rem;
 }
 .hero_desc {
     font-size: 2rem;
@@ -75,6 +75,7 @@
 }
 .card-title {
     text-align: center;
+    font-weight: bold;
 }
 .card:hover .skillsIcon {
     color: #008000;
@@ -120,6 +121,10 @@
 }
 
 /*      text           */
+
+.row{
+    border-radius: 20%;
+}
 /*    btn */
 .portfolioContent,
 .portfolioContent .card-body {
@@ -190,16 +195,28 @@
     border-radius: 12px;
     padding: 10px 16px;
     font-weight: 700;
-    z-index: 1030
+    z-index: 1030;
 }
 
 /*     */
 
+.card.portfolioContent {
+
+    /* border: 0; */
+    border-radius: 26px;
+    overflow: hidden;
+    background: rgb(218, 235, 247);
+    box-shadow: 0 18px 40px rgba(2, 8, 23, 0.14);
+    transition: transform .2s ease, box-shadow .2s ease;
+}
+/*  */
+
+/*  */
 .nav-link{
    font-weight:600;
    color: rgb(238, 149, 15);
 }
-   
+
 .nav-link:hover,
 .nav-link.active {
    font-weight:800;
