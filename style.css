@@ -80,7 +80,8 @@
     color: #008000;
 }
 .skillsText:hover {
-    border: 1px solid #008000;
+    border: 1px solid rgb(65, 100, 216);
+    /* background: rgb(65, 100, 216); */
 }
 
 /* portfolio */
@@ -95,12 +96,11 @@
     align-items: center;
 }
 .contactColumn i {
-    color: #198754;
+    /* color: #28519e; */
+    color: rgb(65, 100, 216);
 }
 
 /* footer */
-
-
 
 .portfolioContent {
     height: 100%;
@@ -120,4 +120,92 @@
 }
 
 /*      text           */
+/*    btn */
+.portfolioContent,
+.portfolioContent .card-body {
+    height: auto;
+    min-height: 0;
+}
 
+.portfolioContent {
+    position: relative;
+    overflow: hidden;
+}
+
+.portfolioContent .card-img-top {
+    display: block;
+}
+
+.portfolioContent .card-body {
+    position: relative;
+    text-align: center;
+}
+.portfolioContent .card-text {
+    position: absolute;
+    top: -100%;
+    left: 50%;
+    transform: translate(-50%, -50%) translateY(20px);
+    width: 85%;
+    background: rgba(61, 55, 55, 0.75);
+    color: rgb(231, 234, 237);
+    padding: 12px;
+    border-radius: 8px;
+    z-index: 10;
+    margin: 0;
+
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.4s ease, transform 0.4s ease;
+}
+
+.portfolioContent:hover .card-text {
+    opacity: 1;
+    visibility: visible;
+    transform: translate(-50%, -50%) translateY(0);
+}
+
+/* apparition au hover */
+.portfolioContent:hover .card-text {
+    display: block;
+}
+/* navigation */
+
+.navbarScroll {
+    background: linear-gradient(90deg, rgba(17, 108, 156, 0.92), rgba(20, 184, 166, .18));
+    backdrop-filter: blur(10px);
+}
+
+.fixed-top {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+
+/* boutton */
+.card.portfolioContent .btn.btn-success {
+    background: rgb(65, 100, 216);
+    border-color: rgb(43, 83, 215);;
+    border-radius: 12px;
+    padding: 10px 16px;
+    font-weight: 700;
+    z-index: 1030
+}
+
+/*     */
+
+.nav-link{
+   font-weight:600;
+   color: rgb(238, 149, 15);
+}
+   
+.nav-link:hover,
+.nav-link.active {
+   font-weight:800;
+   color: rgb(238, 149, 15);
+}
+
+.nav-link.active {
+    color: rgb(168, 136, 89);
+}
