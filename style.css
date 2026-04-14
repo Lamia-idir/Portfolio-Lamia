@@ -17,6 +17,10 @@
     padding-bottom: 4rem;
 }
 
+body{
+    background-color: beige;
+}
+
 /* display background dark color on navbar scroll */
 .navbarScroll.navbarDark {
     background-color: #5b5b5b;
@@ -76,13 +80,17 @@
 .card-title {
     text-align: center;
     font-weight: bold;
+    font-size: 22px;
 }
 .card:hover .skillsIcon {
     color: #008000;
 }
+.skillsText {
+border-radius: 30px;
+}
 .skillsText:hover {
     border: 1px solid rgb(65, 100, 216);
-    /* background: rgb(65, 100, 216); */
+    
 }
 
 /* portfolio */
@@ -120,11 +128,6 @@
     min-height: 250px;
 }
 
-/*      text           */
-
-.row{
-    border-radius: 20%;
-}
 /*    btn */
 .portfolioContent,
 .portfolioContent .card-body {
@@ -191,19 +194,26 @@
 /* boutton */
 .card.portfolioContent .btn.btn-success {
     background: rgb(65, 100, 216);
-    border-color: rgb(43, 83, 215);;
+    border-color: rgb(43, 83, 215);
     border-radius: 12px;
     padding: 10px 16px;
     font-weight: 700;
     z-index: 1030;
 }
+.card.portfolioContent .btn.btn-success:hover {
+background: rgb(234, 214, 222);
+color: rgba(1, 1, 1, 1);
+border: 1px solid rgb(233, 186, 205);
 
+}
 /*     */
+/* .container.mt-4.pt-4 {
+  background: rgb(228, 239, 247);
+} */
 
 .card.portfolioContent {
 
-    /* border: 0; */
-    border-radius: 26px;
+    border-radius: 30px;
     overflow: hidden;
     background: rgb(218, 235, 247);
     box-shadow: 0 18px 40px rgba(2, 8, 23, 0.14);
@@ -212,17 +222,23 @@
 /*  */
 
 /*  */
-.nav-link{
-   font-weight:600;
-   color: rgb(238, 149, 15);
+.nav-link {
+   font-weight: 600;
+   color: rgb(21, 20, 102);
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: rgb(247, 247, 159);
+}
+.navbar-dark .navbar-brand {
+    color: rgb(247, 247, 159);
 }
 
-.nav-link:hover,
-.nav-link.active {
-   font-weight:800;
-   color: rgb(238, 149, 15);
+.navbar-dark .navbar-nav .nav-link:hover{
+   color: rgb(247, 247, 159);
+   font-weight:700;
 }
 
-.nav-link.active {
-    color: rgb(168, 136, 89);
+a {
+    color: rgb(43, 83, 215);
+    font-weight: 700;
 }
