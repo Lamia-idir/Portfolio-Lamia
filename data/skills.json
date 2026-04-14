@@ -40,5 +40,10 @@
     "image": "jira.jpg",
     "title": "Jira",
     "text": "Gestion des tickets, suivi des anomalies, participation aux rituels Agile et collaboration avec les équipes métier et techniques."
+},
+{
+    "image": "postman.png",
+    "title": "Postman",
+    "text": "Création et gestion de collections API, test d'API REST, documentation et partage des endpoints."
 }
 ]
