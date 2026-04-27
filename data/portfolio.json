@@ -1,36 +1,36 @@
 [
     {
-        "image": "image1.png",
+        "image": "booki-hebergement.png",
         "title": "Booki",
         "text": "Création de la page d'accueil pour une agence de voyage en utilisant HTML et CSS. Intégration de l'interface responsive à partir des maquettes Figma et des spécificités du projet..",
         "link": "https://github.com/Lamia-idir/le-site-de-book.git"
     },
     {
-        "image": "image2.png",
+        "image": "portrait-femme.png",
         "title": "Sophie Bluel",
         "text": "Création d'un site web dynamique pour une architecte d'intérieur en utilisant Java Script pour la manipulation des éléments du DOM et en communiquant avec l'API pour la création dynamique des éléments. Création de la page de connexion pour l'administrateur et de modales pour l'ajout/la suppression de projets..",
         "link": "https://github.com/Lamia-idir/Portfolio-architecte-sophie-bluel.git"
     },
     {
-        "image": "image3.png",
-        "title": "Kasa",
+        "image": "kasa-location.png",
+        "title": "kasa",
         "text": "Initialisation d'une application de location de logements avec Create React App pour l'implémentation du front end. Création de composants dynamiques avec React et configuration de la navigation entre les pages de l'application avec React Router..",
         "link": "https://github.com/Lamia-idir/Projet-kasa.git"
     },
      {
-        "image": "image4.png",
+        "image": "conference-evenement.png",
         "title": "427 Events",
         "text": "Conception d'une campagne de tests à partir du cahier de recette pour un site web en développement d'une agence d'événementiel. Identification, documentation et suivi des anomalies dans Jira. Campagne de tests exploratoires pour identifier des anomalies non couvertes par le cahier de recette. Clôture du projet avec la rédaction du bilan de campagne de test..",
         "link": "https://github.com/Lamia-idir/724-Events.git"
     },
     {
-        "image": "image5.png",
+        "image": "savon-artisanal.png",
         "title": "Eco Bliss Bath",
         "text": "Automatisation des tests fonctionnels du site web d'une start up de produits éco responsables. Rédaction des scripts d'automatisation en Java Script. Tests effectués avec Cypress. Rédaction d'un rapport détaillé sur le résultat des tests avec relevé des anomalies détectées..",
         "link": "https://github.com/Lamia-idir/Eco-Bliss.git"
     },
      {
-        "image": "image6.png",
+        "image": "batiment-jaune.png",
         "title": "Tomsen",
         "text": "Définition d'une stratégie de test pour une application de gestion financière avant sa mise en production. Analyse des spécifications fonctionnelles, définition d'une stratégie de test, planification des tests selon les sprints définis par l'approche Agile, et rédaction d'un cahier de recette..",
         "link": "https://github.com/Lamia-idir/TOMSEN.git"
