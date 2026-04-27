@@ -2,48 +2,57 @@
     {
         "image": "html-css.Webp",
         "title": "HTML - CSS",
+        "alt": "Icône représentant les langages HTML et CSS",
         "text": "Intégration d’interfaces responsives et accessibles, utilisation de maquettes Figma, développement d’animations CSS"
     },
     {
         "image": "js.Webp",
         "title": "javascript",
+         "alt": "Icône représentant le langage JavaScript",
         "text": "Manipulation du DOM, création d’éléments dynamiques, gestion de données de formulaires"
     },
     {
         "image": "react.Webp",
         "title": "React",
+         "alt": "Icône représentant la bibliothèque React",
         "text": "Création d’applications React, création de composants et manipulation de leur état"
     },
     {
         "image": "gestion-de-projet.Webp",
         "title": "Gestion de projet",
+         "alt": "Illustration représentant la gestion de projet",
         "text": "Analyse des besoins d’un client, définition d’une solution technique répondant aux besoins fonctionnelle, planification du projet"
     },
     {
         "image": "optimisation-et-debug.Webp",
         "title": "Optimisation et debug",
+         "alt": "Illustration représentant l’optimisation et le débogage d’un site web",
         "text": "Identification des anomalies et correction d’un site existant, optimisation SEO et performance et publication d’un site en ligne"
     },
     {
         "image": "test.Webp",
         "title": "Test",
+        "alt": "Illustration représentant les tests logiciels",
         "text": "Tests exploratoires, unitaires et d’intégration, définition d’une stratégie de test et d’un rédaction d’un cahier de recette, automatisation de tests E2E et d’API"
     }
     ,
 {
     "image": "cypress.Webp",
     "title": "Cypress",
+     "alt": "Logo de l’outil Cypress pour l’automatisation des tests",
     "text": "Automatisation des tests end-to-end et API, validation des parcours utilisateurs et intégration dans des pipelines CI/CD."
 },
 
 {
     "image": "jira.Webp",
     "title": "Jira",
+    "alt": "Logo de l’outil Jira pour la gestion des tickets et le suivi des anomalies",
     "text": "Gestion des tickets, suivi des anomalies, participation aux rituels Agile et collaboration avec les équipes métier et techniques."
 },
 {
     "image": "postman.Webp",
     "title": "Postman",
+    "alt": "Logo de l’outil Postman pour le test d'API",
     "text": "Création et gestion de collections API, test d'API REST, documentation et partage des endpoints."
 }
 ]
