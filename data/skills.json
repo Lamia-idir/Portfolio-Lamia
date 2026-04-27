@@ -1,48 +1,48 @@
 [
     {
-        "image": "html-css.jpg",
+        "image": "html-css.Webp",
         "title": "HTML - CSS",
         "text": "Intégration d’interfaces responsives et accessibles, utilisation de maquettes Figma, développement d’animations CSS"
     },
     {
-        "image": "js.jpg",
+        "image": "js.Webp",
         "title": "javascript",
         "text": "Manipulation du DOM, création d’éléments dynamiques, gestion de données de formulaires"
     },
     {
-        "image": "react.jpg",
+        "image": "react.Webp",
         "title": "React",
         "text": "Création d’applications React, création de composants et manipulation de leur état"
     },
     {
-        "image": "gestion-de-projet.png",
+        "image": "gestion-de-projet.Webp",
         "title": "Gestion de projet",
         "text": "Analyse des besoins d’un client, définition d’une solution technique répondant aux besoins fonctionnelle, planification du projet"
     },
     {
-        "image": "optimisation-et-debug.png",
+        "image": "optimisation-et-debug.Webp",
         "title": "Optimisation et debug",
         "text": "Identification des anomalies et correction d’un site existant, optimisation SEO et performance et publication d’un site en ligne"
     },
     {
-        "image": "test.png",
+        "image": "test.Webp",
         "title": "Test",
         "text": "Tests exploratoires, unitaires et d’intégration, définition d’une stratégie de test et d’un rédaction d’un cahier de recette, automatisation de tests E2E et d’API"
     }
     ,
 {
-    "image": "cypress.png",
+    "image": "cypress.Webp",
     "title": "Cypress",
     "text": "Automatisation des tests end-to-end et API, validation des parcours utilisateurs et intégration dans des pipelines CI/CD."
 },
 
 {
-    "image": "jira.jpg",
+    "image": "jira.Webp",
     "title": "Jira",
     "text": "Gestion des tickets, suivi des anomalies, participation aux rituels Agile et collaboration avec les équipes métier et techniques."
 },
 {
-    "image": "postman.png",
+    "image": "postman.Webp",
     "title": "Postman",
     "text": "Création et gestion de collections API, test d'API REST, documentation et partage des endpoints."
 }
