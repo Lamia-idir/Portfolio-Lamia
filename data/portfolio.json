@@ -1,27 +1,27 @@
 [
     {
-        "image": "booki-hebergement.Webp",
+        "image": "booki-hebergement.png",
         "title": "Booki",
         "alt": "Aperçu du projet Booki, page d'accueil d'une agence de voyage",
         "text": "Création de la page d'accueil pour une agence de voyage en utilisant HTML et CSS. Intégration de l'interface responsive à partir des maquettes Figma et des spécificités du projet..",
         "link": "https://github.com/Lamia-idir/le-site-de-book.git"
     },
     {
-        "image": "portrait-femme.Webp",
+        "image": "portrait-femme.png",
         "title": "Sophie Bluel",
         "alt": "Aperçu du projet Sophie Bluel, site web dynamique pour une architecte d'intérieur",
         "text": "Création d'un site web dynamique pour une architecte d'intérieur en utilisant Java Script pour la manipulation des éléments du DOM et en communiquant avec l'API pour la création dynamique des éléments. Création de la page de connexion pour l'administrateur et de modales pour l'ajout/la suppression de projets..",
         "link": "https://github.com/Lamia-idir/Portfolio-architecte-sophie-bluel.git"
     },
     {
-        "image": "kasa-location.Webp",
+        "image": "kasa-location.png",
         "title": "kasa",
         "alt": "Aperçu du projet Kasa, application de location de logements",
         "text": "Initialisation d'une application de location de logements avec Create React App pour l'implémentation du front end. Création de composants dynamiques avec React et configuration de la navigation entre les pages de l'application avec React Router..",
         "link": "https://github.com/Lamia-idir/Projet-kasa.git"
     },
      {
-        "image": "conference-evenement.Webp",
+        "image": "conference-evenement.png",
         "title": "427 Events",
         "alt": "Aperçu du projet 724 Events, site web d'une agence d'événementiel",
         "text": "Conception d'une campagne de tests à partir du cahier de recette pour un site web en développement d'une agence d'événementiel. Identification, documentation et suivi des anomalies dans Jira. Campagne de tests exploratoires pour identifier des anomalies non couvertes par le cahier de recette. Clôture du projet avec la rédaction du bilan de campagne de test..",
@@ -35,7 +35,7 @@
         "link": "https://github.com/Lamia-idir/Eco-Bliss.git"
     },
      {
-        "image": "batiment-jaune.Webp",
+        "image": "batiment-jaune.png",
         "title": "Tomsen",
         "alt": "Aperçu du projet Tomsen, application de gestion financière",
         "text": "Définition d'une stratégie de test pour une application de gestion financière avant sa mise en production. Analyse des spécifications fonctionnelles, définition d'une stratégie de test, planification des tests selon les sprints définis par l'approche Agile, et rédaction d'un cahier de recette..",
