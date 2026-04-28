@@ -28,7 +28,7 @@
         "link": "https://github.com/Lamia-idir/724-Events.git"
     },
     {
-        "image": "savon-artisanal.Webp",
+        "image": "savon-artisanal.png",
         "title": "Eco Bliss Bath",
          "alt": "Aperçu du projet Eco Bliss Bath, site web de produits éco responsables",
         "text": "Automatisation des tests fonctionnels du site web d'une start up de produits éco responsables. Rédaction des scripts d'automatisation en Java Script. Tests effectués avec Cypress. Rédaction d'un rapport détaillé sur le résultat des tests avec relevé des anomalies détectées..",
