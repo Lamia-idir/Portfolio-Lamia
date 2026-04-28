@@ -38,7 +38,7 @@ body{
 .bgimage {
     height: 100vh;
     max-height: 900px;
-    background: url("images/thec.jpg");
+    background: url("images/reseau-numerique.jpg");
     background-size: cover;
     position: relative;
 }
