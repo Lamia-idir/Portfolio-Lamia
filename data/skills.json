@@ -1,6 +1,6 @@
 [
     {
-        "image": "html-css.png",
+        "image": "html-css.jpg",
         "title": "HTML - CSS",
         "alt": "Icône représentant les langages HTML et CSS",
         "text": "Intégration d’interfaces responsives et accessibles, utilisation de maquettes Figma, développement d’animations CSS"
@@ -12,7 +12,7 @@
         "text": "Manipulation du DOM, création d’éléments dynamiques, gestion de données de formulaires"
     },
     {
-        "image": "react.png",
+        "image": "react.jpg",
         "title": "React",
          "alt": "Icône représentant la bibliothèque React",
         "text": "Création d’applications React, création de composants et manipulation de leur état"
