@@ -6,7 +6,7 @@
         "text": "Intégration d’interfaces responsives et accessibles, utilisation de maquettes Figma, développement d’animations CSS"
     },
     {
-        "image": "js.png",
+        "image": "js.jpg",
         "title": "javascript",
          "alt": "Icône représentant le langage JavaScript",
         "text": "Manipulation du DOM, création d’éléments dynamiques, gestion de données de formulaires"
@@ -44,7 +44,7 @@
 },
 
 {
-    "image": "jira.png",
+    "image": "jira.jpg",
     "title": "Jira",
     "alt": "Logo de l’outil Jira pour la gestion des tickets et le suivi des anomalies",
     "text": "Gestion des tickets, suivi des anomalies, participation aux rituels Agile et collaboration avec les équipes métier et techniques."
